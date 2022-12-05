@@ -1,5 +1,5 @@
 <h1 align="center">Hi There ! I'm Tim</h1>
-<h3 align="center">A young developer with passion for programming.</h3>
+<h3 align="center">A young developer with love for programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timbolshisnkykryon&label=Profile%20views&color=0e75b6&style=flat" alt="timbolshisnkykryon" /> </p>
 
